@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleExpressionEvaluator", "SimpleExpressionEvaluator\SimpleExpressionEvaluator.csproj", "{3083C4FB-E44E-4234-BB4D-5C0713478BDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleExpressionEvaluatorTest", "SimpleExpressionEvaluatorTest\SimpleExpressionEvaluatorTest.csproj", "{E9EEE30D-D393-4D04-AD84-E59087887B8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LikeParser", "LikeParser\LikeParser.csproj", "{D8F4D66F-C308-431B-9B2F-701765389A97}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs23
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SimpleExpressionEvaluator\\SimpleExpressionEvaluator.csproj
+		SccProjectName1 = SimpleExpressionEvaluator
+		SccLocalPath1 = SimpleExpressionEvaluator
+		SccProjectUniqueName2 = SimpleExpressionEvaluatorTest\\SimpleExpressionEvaluatorTest.csproj
+		SccProjectName2 = SimpleExpressionEvaluatorTest
+		SccLocalPath2 = SimpleExpressionEvaluatorTest
+		SccProjectUniqueName3 = LikeParser\\LikeParser.csproj
+		SccProjectName3 = LikeParser
+		SccLocalPath3 = LikeParser
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3083C4FB-E44E-4234-BB4D-5C0713478BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3083C4FB-E44E-4234-BB4D-5C0713478BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3083C4FB-E44E-4234-BB4D-5C0713478BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3083C4FB-E44E-4234-BB4D-5C0713478BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9EEE30D-D393-4D04-AD84-E59087887B8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9EEE30D-D393-4D04-AD84-E59087887B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9EEE30D-D393-4D04-AD84-E59087887B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9EEE30D-D393-4D04-AD84-E59087887B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F4D66F-C308-431B-9B2F-701765389A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F4D66F-C308-431B-9B2F-701765389A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F4D66F-C308-431B-9B2F-701765389A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F4D66F-C308-431B-9B2F-701765389A97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
